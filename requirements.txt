@@ -1,6 +1,5 @@
 numpy
 pandas
 seaborn
-matlpotlib
-streamlit
+matplotlib
 tensorflow
